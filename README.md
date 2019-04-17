@@ -4,7 +4,7 @@
  
 # Utilisation
 
-![](https://img.shields.io/github/issues/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/status/contexts/pulls/kazunori-bot/console-name/1110.svg) ![](https://img.shields.io/github/repo-size/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/downloads/kazunori-bot/console-name/total.svg) ![](https://img.shields.io/github/license/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/package-json/v/kazunori-bot/console-name.svg)
+![](https://img.shields.io/github/issues/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/repo-size/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/downloads/kazunori-bot/console-name/total.svg) ![](https://img.shields.io/github/license/kazunori-bot/console-name.svg) ![](https://img.shields.io/github/package-json/v/kazunori-bot/console-name.svg)
 
 ### **Guide:**
 
